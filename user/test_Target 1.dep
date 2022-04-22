@@ -1,0 +1,67 @@
+Dependencies for Project 'test', Target 'Target 1': (DO NOT MODIFY !)
+F (.\STM32F10x.s)(0x55758744)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I D:\KeiluVision5\Keil\ARM\RV31\INC-I D:\KeiluVision5\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\KeiluVision5\Keil\ARM\Inc\ST\STM32F10x--list .\stm32f10x.lst --xref -o .\stm32f10x.o --depend .\stm32f10x.d)
+F (.\test.c)(0x625F6B34)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\timer-I D:\KeiluVision5\Keil\ARM\RV31\INC-I D:\KeiluVision5\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\KeiluVision5\Keil\ARM\Inc\ST\STM32F10x-o .\test.o --omf_browse .\test.crf --depend .\test.d)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\sys.h)(0x55758FB4)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_map.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_conf.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_type.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\cortexm3_macro.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_nvic.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\delay\delay.h)(0x548FC7CC)
+I (D:\OneDrive - for personal\桌面\Document\实验七\HARDWARE\LED\led.h)(0x548FC934)
+I (D:\OneDrive - for personal\桌面\Document\实验七\HARDWARE\KEY\key.h)(0x557529FC)
+I (D:\OneDrive - for personal\桌面\Document\实验七\HARDWARE\EXTI\exti.h)(0x55758744)
+I (D:\OneDrive - for personal\桌面\Document\实验七\HARDWARE\timer\timer.h)(0x625CF525)
+F (..\SYSTEM\delay\delay.c)(0x548FC790)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\timer-I D:\KeiluVision5\Keil\ARM\RV31\INC-I D:\KeiluVision5\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\KeiluVision5\Keil\ARM\Inc\ST\STM32F10x-o .\delay.o --omf_browse .\delay.crf --depend .\delay.d)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_map.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_conf.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_type.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\cortexm3_macro.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_nvic.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\delay\delay.h)(0x548FC7CC)
+F (..\SYSTEM\sys\sys.c)(0x5575A1FC)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\timer-I D:\KeiluVision5\Keil\ARM\RV31\INC-I D:\KeiluVision5\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\KeiluVision5\Keil\ARM\Inc\ST\STM32F10x-o .\sys.o --omf_browse .\sys.crf --depend .\sys.d)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\sys.h)(0x55758FB4)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_map.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_conf.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_type.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\cortexm3_macro.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_nvic.h)(0x4A01B400)
+F (..\HARDWARE\LED\led.c)(0x62612118)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\timer-I D:\KeiluVision5\Keil\ARM\RV31\INC-I D:\KeiluVision5\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\KeiluVision5\Keil\ARM\Inc\ST\STM32F10x-o .\led.o --omf_browse .\led.crf --depend .\led.d)
+I (D:\OneDrive - for personal\桌面\Document\实验七\HARDWARE\LED\led.h)(0x548FC934)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\sys.h)(0x55758FB4)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_map.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_conf.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_type.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\cortexm3_macro.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_nvic.h)(0x4A01B400)
+F (..\HARDWARE\KEY\key.c)(0x55752D80)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\timer-I D:\KeiluVision5\Keil\ARM\RV31\INC-I D:\KeiluVision5\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\KeiluVision5\Keil\ARM\Inc\ST\STM32F10x-o .\key.o --omf_browse .\key.crf --depend .\key.d)
+I (D:\OneDrive - for personal\桌面\Document\实验七\HARDWARE\KEY\key.h)(0x557529FC)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\sys.h)(0x55758FB4)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_map.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_conf.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_type.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\cortexm3_macro.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_nvic.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\delay\delay.h)(0x548FC7CC)
+F (..\HARDWARE\EXTI\exti.c)(0x625F6FFF)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\timer-I D:\KeiluVision5\Keil\ARM\RV31\INC-I D:\KeiluVision5\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\KeiluVision5\Keil\ARM\Inc\ST\STM32F10x-o .\exti.o --omf_browse .\exti.crf --depend .\exti.d)
+I (D:\OneDrive - for personal\桌面\Document\实验七\HARDWARE\EXTI\exti.h)(0x55758744)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\sys.h)(0x55758FB4)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_map.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_conf.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_type.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\cortexm3_macro.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_nvic.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\HARDWARE\LED\led.h)(0x548FC934)
+I (D:\OneDrive - for personal\桌面\Document\实验七\HARDWARE\KEY\key.h)(0x557529FC)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\delay\delay.h)(0x548FC7CC)
+I (D:\OneDrive - for personal\桌面\Document\实验七\HARDWARE\timer\timer.h)(0x625CF525)
+F (.\timer.c)(0x625F5854)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\timer-I D:\KeiluVision5\Keil\ARM\RV31\INC-I D:\KeiluVision5\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\KeiluVision5\Keil\ARM\Inc\ST\STM32F10x-o .\timer.o --omf_browse .\timer.crf --depend .\timer.d)
+I (D:\OneDrive - for personal\桌面\Document\实验七\HARDWARE\timer\timer.h)(0x625CF525)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\sys.h)(0x55758FB4)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_map.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_conf.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_type.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\cortexm3_macro.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\sys\stm32f10x_nvic.h)(0x4A01B400)
+I (D:\OneDrive - for personal\桌面\Document\实验七\SYSTEM\delay\delay.h)(0x548FC7CC)
+I (D:\OneDrive - for personal\桌面\Document\实验七\HARDWARE\LED\led.h)(0x548FC934)
